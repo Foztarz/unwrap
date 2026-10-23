@@ -127,3 +127,8 @@ unwrap/.DS_Store
 
 .DS_Store
 .Rproj.user
+
+.venv-*/
+
+# Local notebook cell editing workspaces
+.notebook-work/
